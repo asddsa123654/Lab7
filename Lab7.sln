@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Універсальні методи", "ConsoleApp5\Універсальні методи.csproj", "{DEE25A6B-1A64-487F-9664-E2753C222550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Універсальний метод з обмеженнями типу для пошуку максимального та мінімального елементів", "ConsoleApp1\Універсальний метод з обмеженнями типу для пошуку максимального та мінімального елементів.csproj", "{B4723108-929A-4B8D-8070-30F2E9648BEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Універсальний клас з одним параметром для знаходження меншого з двох чисел", "ConsoleApp2\Універсальний клас з одним параметром для знаходження меншого з двох чисел.csproj", "{00D942C8-862B-4C9A-96F7-4064510ECB32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Обмеження параметрів типу для роботи зі списком документів", "ConsoleApp3\Обмеження параметрів типу для роботи зі списком документів.csproj", "{78C8E1CF-5CA2-46B5-8B54-3352A4C4AEBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEE25A6B-1A64-487F-9664-E2753C222550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE25A6B-1A64-487F-9664-E2753C222550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE25A6B-1A64-487F-9664-E2753C222550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE25A6B-1A64-487F-9664-E2753C222550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4723108-929A-4B8D-8070-30F2E9648BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4723108-929A-4B8D-8070-30F2E9648BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4723108-929A-4B8D-8070-30F2E9648BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4723108-929A-4B8D-8070-30F2E9648BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D942C8-862B-4C9A-96F7-4064510ECB32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D942C8-862B-4C9A-96F7-4064510ECB32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D942C8-862B-4C9A-96F7-4064510ECB32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D942C8-862B-4C9A-96F7-4064510ECB32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C8E1CF-5CA2-46B5-8B54-3352A4C4AEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C8E1CF-5CA2-46B5-8B54-3352A4C4AEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C8E1CF-5CA2-46B5-8B54-3352A4C4AEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C8E1CF-5CA2-46B5-8B54-3352A4C4AEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B169EA33-9454-4762-B292-B72A9C79BA3F}
+	EndGlobalSection
+EndGlobal
